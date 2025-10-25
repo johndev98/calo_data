@@ -279,6 +279,7 @@
     },
     "barcodes": ["9876543211005"]
   },
+  {
   "foodId": "21",
     "name": "Sim",
     "categoryId": "fruit",
