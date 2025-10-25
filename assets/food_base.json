@@ -26,5 +26,19 @@
       "fat": 0.2
     },
     "barcodes": ["9876543210987"]
+  },
+  {
+    "foodId": "3",
+    "name": "Orange",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/apple.jpg",
+    "nutrients": {
+      "calories": 40,
+      "protein": 0.2,
+      "carbs": 11,
+      "fat": 0.2
+    },
+    "barcodes": ["9876543210987"]
   }
 ]
