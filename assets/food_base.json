@@ -292,5 +292,19 @@
       "fat": 0.3
     },
     "barcodes": ["1234567890123"]
+  },
+   {
+  "foodId": "22",
+    "name": "Măng Cụt",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/banana.jpg",
+    "nutrients": {
+      "calories": 120,
+      "protein": 3,
+      "carbs": 20.8,
+      "fat": 0.3
+    },
+    "barcodes": ["1234567890123"]
   }
 ]
