@@ -1,7 +1,7 @@
 [
   {
     "foodId": "1",
-    "name": "Banana",
+    "name": "Chuối",
     "categoryId": "fruit",
     "weight": 100,
     "imageUrl": "https://example.com/banana.jpg",
@@ -15,30 +15,268 @@
   },
   {
     "foodId": "2",
-    "name": "Apple",
+    "name": "Táo",
     "categoryId": "fruit",
     "weight": 100,
     "imageUrl": "https://example.com/apple.jpg",
     "nutrients": {
       "calories": 52,
       "protein": 0.3,
-      "carbs": 14,
+      "carbs": 13.8,
       "fat": 0.2
     },
     "barcodes": ["9876543210987"]
   },
   {
     "foodId": "3",
-    "name": "Orange",
+    "name": "Cam",
     "categoryId": "fruit",
     "weight": 100,
-    "imageUrl": "https://example.com/apple.jpg",
+    "imageUrl": "https://example.com/orange.jpg",
     "nutrients": {
-      "calories": 40,
-      "protein": 0.2,
-      "carbs": 11,
+      "calories": 47,
+      "protein": 0.9,
+      "carbs": 11.8,
+      "fat": 0.1
+    },
+    "barcodes": ["9876543210988"]
+  },
+  {
+    "foodId": "4",
+    "name": "Xoài",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/mango.jpg",
+    "nutrients": {
+      "calories": 60,
+      "protein": 0.8,
+      "carbs": 15,
+      "fat": 0.4
+    },
+    "barcodes": ["9876543210989"]
+  },
+  {
+    "foodId": "5",
+    "name": "Dứa",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/pineapple.jpg",
+    "nutrients": {
+      "calories": 50,
+      "protein": 0.5,
+      "carbs": 13.1,
+      "fat": 0.1
+    },
+    "barcodes": ["9876543210990"]
+  },
+  {
+    "foodId": "6",
+    "name": "Dưa hấu",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/watermelon.jpg",
+    "nutrients": {
+      "calories": 30,
+      "protein": 0.6,
+      "carbs": 7.6,
       "fat": 0.2
     },
-    "barcodes": ["9876543210987"]
+    "barcodes": ["9876543210991"]
+  },
+  {
+    "foodId": "7",
+    "name": "Nho",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/grape.jpg",
+    "nutrients": {
+      "calories": 69,
+      "protein": 0.7,
+      "carbs": 18.1,
+      "fat": 0.2
+    },
+    "barcodes": ["9876543210992"]
+  },
+  {
+    "foodId": "8",
+    "name": "Dâu tây",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/strawberry.jpg",
+    "nutrients": {
+      "calories": 33,
+      "protein": 0.7,
+      "carbs": 7.7,
+      "fat": 0.3
+    },
+    "barcodes": ["9876543210993"]
+  },
+  {
+    "foodId": "9",
+    "name": "Lê",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/pear.jpg",
+    "nutrients": {
+      "calories": 57,
+      "protein": 0.4,
+      "carbs": 15.2,
+      "fat": 0.1
+    },
+    "barcodes": ["9876543210994"]
+  },
+  {
+    "foodId": "10",
+    "name": "Bưởi",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/grapefruit.jpg",
+    "nutrients": {
+      "calories": 42,
+      "protein": 0.8,
+      "carbs": 10.7,
+      "fat": 0.1
+    },
+    "barcodes": ["9876543210995"]
+  },
+  {
+    "foodId": "11",
+    "name": "Chanh",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/lemon.jpg",
+    "nutrients": {
+      "calories": 29,
+      "protein": 1.1,
+      "carbs": 9.3,
+      "fat": 0.3
+    },
+    "barcodes": ["9876543210996"]
+  },
+  {
+    "foodId": "12",
+    "name": "Mận",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/plum.jpg",
+    "nutrients": {
+      "calories": 46,
+      "protein": 0.7,
+      "carbs": 11.4,
+      "fat": 0.3
+    },
+    "barcodes": ["9876543210997"]
+  },
+  {
+    "foodId": "13",
+    "name": "Đào",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/peach.jpg",
+    "nutrients": {
+      "calories": 39,
+      "protein": 0.9,
+      "carbs": 9.5,
+      "fat": 0.3
+    },
+    "barcodes": ["9876543210998"]
+  },
+  {
+    "foodId": "14",
+    "name": "Thanh long",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/dragonfruit.jpg",
+    "nutrients": {
+      "calories": 60,
+      "protein": 1.2,
+      "carbs": 13.3,
+      "fat": 0.4
+    },
+    "barcodes": ["9876543210999"]
+  },
+  {
+    "foodId": "15",
+    "name": "Sầu riêng",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/durian.jpg",
+    "nutrients": {
+      "calories": 147,
+      "protein": 1.5,
+      "carbs": 27.1,
+      "fat": 5.3
+    },
+    "barcodes": ["9876543211000"]
+  },
+  {
+    "foodId": "16",
+    "name": "Vải",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/lychee.jpg",
+    "nutrients": {
+      "calories": 66,
+      "protein": 0.8,
+      "carbs": 16.5,
+      "fat": 0.4
+    },
+    "barcodes": ["9876543211001"]
+  },
+  {
+    "foodId": "17",
+    "name": "Mít",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/jackfruit.jpg",
+    "nutrients": {
+      "calories": 95,
+      "protein": 1.7,
+      "carbs": 23.3,
+      "fat": 0.6
+    },
+    "barcodes": ["9876543211002"]
+  },
+  {
+    "foodId": "18",
+    "name": "Chôm chôm",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/rambutan.jpg",
+    "nutrients": {
+      "calories": 68,
+      "protein": 0.9,
+      "carbs": 16,
+      "fat": 0.2
+    },
+    "barcodes": ["9876543211003"]
+  },
+  {
+    "foodId": "19",
+    "name": "Ổi",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/guava.jpg",
+    "nutrients": {
+      "calories": 68,
+      "protein": 2.6,
+      "carbs": 14.3,
+      "fat": 0.9
+    },
+    "barcodes": ["9876543211004"]
+  },
+  {
+    "foodId": "20",
+    "name": "Bơ",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/avocado.jpg",
+    "nutrients": {
+      "calories": 160,
+      "protein": 2,
+      "carbs": 8.5,
+      "fat": 14.7
+    },
+    "barcodes": ["9876543211005"]
   }
 ]
