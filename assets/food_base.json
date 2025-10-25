@@ -278,5 +278,18 @@
       "fat": 14.7
     },
     "barcodes": ["9876543211005"]
+  },
+  "foodId": "21",
+    "name": "Sim",
+    "categoryId": "fruit",
+    "weight": 100,
+    "imageUrl": "https://example.com/banana.jpg",
+    "nutrients": {
+      "calories": 80,
+      "protein": 1.1,
+      "carbs": 22.8,
+      "fat": 0.3
+    },
+    "barcodes": ["1234567890123"]
   }
 ]
