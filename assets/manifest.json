@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
-    { "name": "fruit.json", "hash": "abc123", "size_mb": 0.5}   
+    { "name": "fruit.json", "hash": "abc321", "size_mb": 0.1}   
   ]
 }
