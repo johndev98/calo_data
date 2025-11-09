@@ -12,5 +12,20 @@
       "fat": 0.3
     },
     "barcodes": ["1234567890123"]
+  },
+  
+  {
+    "foodId": "f1234756-abc8-4567-89ab-cdef12345678",
+    "name": "Sữa Đậu",
+    "categoryId": "dairy",
+    "weight": 100,
+    "imageUrl": "https://example.com/cow-milk.jpg",
+    "nutrients": {
+      "calories": 61,
+      "protein": 3.2,
+      "carbs": 22.8,
+      "fat": 0.3
+    },
+    "barcodes": ["1234567890123"]
   }
 ]
