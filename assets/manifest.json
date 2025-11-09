@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     { "name": "fruit.json", "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709", "size_mb": 0.5},
-    { "name": "milks.json", "hash": "03de6c6a50d11085fc442d9b6fd6d0e54a0b76fd", "size_mb": 0.1}
+    { "name": "milks.json", "hash": "03de6c6a50d11085fc442d9b6fd6d0e54a0b89fd", "size_mb": 0.1}
   ]
 }
