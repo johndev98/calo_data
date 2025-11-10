@@ -1,0 +1,98 @@
+[
+  {
+    "foodId": "a5e95a2c-29b8-4f5e-9d03-3a6e1d4f8b3b",
+    "name_vi": "Chuối",
+    "name_en": "Banana", 
+    "categories": ["fruit", "tropical_fruit", "carbohydrate"],
+    "categories_vi": ["Trái cây", "Nhiệt đới", "Tinh bột"],
+    "weight": 100,
+    "imageUrl": "https://example.com/banana.jpg",
+    "nutrients": {
+      "calories": 89,
+      "protein": 1.1,
+      "carbs": 22.8,
+      "fat": 0.3
+    },
+    "barcodes": ["1234567890123"]
+  },
+  {
+    "foodId": "b82e47d4-32f5-4c8b-8b2e-9e55a6e67a90",
+    "name_vi": "Táo",
+    "name_en": "Apple",
+    "categories": ["fruit", "common_fruit"],
+    "categories_vi": ["Trái cây", "Phổ thông"],
+    "weight": 100,
+    "imageUrl": "https://example.com/apple.jpg",
+    "nutrients": {
+      "calories": 52,
+      "protein": 0.3,
+      "carbs": 13.8,
+      "fat": 0.2
+    },
+    "barcodes": ["8901234567890"]
+  },
+  {
+    "foodId": "c49d70ac-905f-45db-b1f7-cb1cf3e1f893",
+    "name_vi": "Cam",
+    "name_en": "Orange",
+    "categories": ["fruit", "citrus"],
+    "categories_vi": ["Trái cây", "Họ cam quýt"],
+    "weight": 100,
+    "imageUrl": "https://example.com/orange.jpg",
+    "nutrients": {
+      "calories": 47,
+      "protein": 0.9,
+      "carbs": 11.8,
+      "fat": 0.1
+    },
+    "barcodes": ["3456789012345"]
+  },
+  {
+    "foodId": "e88a1d53-9d93-42f0-bf1c-49c8a9cb96a5",
+    "name_vi": "Xoài",
+    "name_en": "Mango",
+    "categories": ["fruit", "tropical_fruit"],
+    "categories_vi": ["Trái cây", "Nhiệt đới"],
+    "weight": 100,
+    "imageUrl": "https://example.com/mango.jpg",
+    "nutrients": {
+      "calories": 60,
+      "protein": 0.8,
+      "carbs": 15,
+      "fat": 0.4
+    },
+    "barcodes": ["5678901234567"]
+  },
+  {
+    "foodId": "f5b23b89-2f60-4560-b994-839e2df4a3df",
+    "name_vi": "Dâu tây",
+    "name_en": "Strawberry",
+    "categories": ["fruit", "berry"],
+    "categories_vi": ["Trái cây", "Quả mọng"],
+    "weight": 100,
+    "imageUrl": "https://example.com/strawberry.jpg",
+    "nutrients": {
+      "calories": 32,
+      "protein": 0.7,
+      "carbs": 7.7,
+      "fat": 0.3
+    },
+    "barcodes": ["7890123456789"]
+  },
+  {
+    "foodId": "d56a912f-5b54-4a14-a707-bd0cf3b0f2f2",
+    "name_vi": "Dưa hấu",
+    "name_en": "Watermelon",
+    "categories": ["fruit", "melon", "summer_fruit"],
+    "categories_vi": ["Trái cây", "Dưa", "Hè"],
+    "weight": 100,
+    "imageUrl": "https://example.com/watermelon.jpg",
+    "nutrients": {
+      "calories": 30,
+      "protein": 0.6,
+      "carbs": 7.6,
+      "fat": 0.2
+    },
+    "barcodes": ["9012345678901"]
+  }
+]
