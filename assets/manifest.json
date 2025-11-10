@@ -1,7 +1,7 @@
 {
   "version": "1.0.2",
   "files": [
-    { "name": "fruit.json", "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709", "size_mb": 0.5}
+    { "name": "foods/fruit.json", "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709", "size_mb": 0.5}
     
   ]
 }
