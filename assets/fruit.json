@@ -2,7 +2,7 @@
   {
     "foodId": "a5e95a2c-29b8-4f5e-9d03-3a6e1d4f8b3b",
     "name": "Chuối",
-    "categoryId": "fruit",
+    "categories": ["fruit", "tropical_fruit"],
     "weight": 100,
     "imageUrl": "https://example.com/banana.jpg",
     "nutrients": {
@@ -16,7 +16,7 @@
   {
     "foodId": "b82e47d4-32f5-4c8b-8b2e-9e55a6e67a90",
     "name": "Táo",
-    "categoryId": "fruit",
+    "categories": ["fruit", "tropical_fruit"],
     "weight": 100,
     "imageUrl": "https://example.com/apple.jpg",
     "nutrients": {
@@ -30,7 +30,7 @@
   {
     "foodId": "c49d70ac-905f-45db-b1f7-cb1cf3e1f893",
     "name": "Cam",
-    "categoryId": "fruit",
+    "categories": ["fruit", "tropical_fruit"],
     "weight": 100,
     "imageUrl": "https://example.com/orange.jpg",
     "nutrients": {
@@ -44,7 +44,7 @@
   {
     "foodId": "e88a1d53-9d93-42f0-bf1c-49c8a9cb96a5",
     "name": "Xoài",
-    "categoryId": "fruit",
+    "categories": ["fruit", "tropical_fruit"],
     "weight": 100,
     "imageUrl": "https://example.com/mango.jpg",
     "nutrients": {
@@ -58,7 +58,7 @@
   {
     "foodId": "f5b23b89-2f60-4560-b994-839e2df4a3df",
     "name": "Dâu tây",
-    "categoryId": "fruit",
+    "categories": ["fruit", "tropical_fruit"],
     "weight": 100,
     "imageUrl": "https://example.com/strawberry.jpg",
     "nutrients": {
@@ -72,7 +72,7 @@
   {
     "foodId": "d56a912f-5b54-4a14-a707-bd0cf3b0f2f2",
     "name": "Dưa hấu",
-    "categoryId": "fruit",
+    "categories": ["fruit", "tropical_fruit"],
     "weight": 100,
     "imageUrl": "https://example.com/watermelon.jpg",
     "nutrients": {
