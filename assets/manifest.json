@@ -1,7 +1,6 @@
 {
   "version": "1.0.4",
   "files": [
-    { "name": "fruit.json", "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709", "size_mb": 0.5},
-    { "name": "cac_loai_hat.json", "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80889", "size_mb": 0.02}
+    { "name": "fruit.json", "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709", "size_mb": 0.5}
   ]
 }
