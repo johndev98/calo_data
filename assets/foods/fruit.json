@@ -2,97 +2,491 @@
   {
     "foodId": "a5e95a2c-29b8-4f5e-9d03-3a6e1d4f8b3b",
     "name_vi": "Chuối",
-    "name_en": "Banana", 
-    "categories": ["fruit", "tropical_fruit", "carbohydrate"],
-    "categories_vi": ["Trái cây", "Nhiệt đới", "Tinh bột"],
+    "name_en": "Banana",
+    "categories": [
+      "fruit",
+      "tropical_fruit",
+      "carbohydrate"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Nhiệt đới",
+      "Tinh bột"
+    ],
     "weight": 100,
     "imageUrl": "https://example.com/banana.jpg",
     "nutrients": {
-      "calories": 89,
-      "protein": 1.1,
-      "carbs": 22.8,
-      "fat": 0.3
+      "calories": {
+        "value": 89.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 1.1,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 22.8,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.3,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 12.0,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 8.7,
+        "unit": "mg"
+      }
     },
-    "barcodes": ["1234567890123"]
+    "barcodes": [
+      "1234567890123"
+    ]
   },
   {
     "foodId": "b82e47d4-32f5-4c8b-8b2e-9e55a6e67a90",
     "name_vi": "Táo",
     "name_en": "Apple",
-    "categories": ["fruit", "common_fruit"],
-    "categories_vi": ["Trái cây", "Phổ thông"],
+    "categories": [
+      "fruit",
+      "common_fruit"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Phổ thông"
+    ],
     "weight": 100,
     "imageUrl": "https://example.com/apple.jpg",
     "nutrients": {
-      "calories": 52,
-      "protein": 0.3,
-      "carbs": 13.8,
-      "fat": 0.2
+      "calories": {
+        "value": 52.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.3,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 13.8,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.2,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 10.4,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 4.6,
+        "unit": "mg"
+      }
     },
-    "barcodes": ["8901234567890"]
+    "barcodes": [
+      "8901234567890"
+    ]
   },
   {
     "foodId": "c49d70ac-905f-45db-b1f7-cb1cf3e1f893",
     "name_vi": "Cam",
     "name_en": "Orange",
-    "categories": ["fruit", "citrus"],
-    "categories_vi": ["Trái cây", "Họ cam quýt"],
+    "categories": [
+      "fruit",
+      "citrus"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Họ cam quýt"
+    ],
     "weight": 100,
     "imageUrl": "https://example.com/orange.jpg",
     "nutrients": {
-      "calories": 47,
-      "protein": 0.9,
-      "carbs": 11.8,
-      "fat": 0.1
+      "calories": {
+        "value": 47.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.9,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 11.8,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.1,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 9.4,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 53.2,
+        "unit": "mg"
+      }
     },
-    "barcodes": ["3456789012345"]
+    "barcodes": [
+      "3456789012345"
+    ]
   },
   {
     "foodId": "e88a1d53-9d93-42f0-bf1c-49c8a9cb96a5",
     "name_vi": "Xoài",
     "name_en": "Mango",
-    "categories": ["fruit", "tropical_fruit"],
-    "categories_vi": ["Trái cây", "Nhiệt đới"],
+    "categories": [
+      "fruit",
+      "tropical_fruit"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Nhiệt đới"
+    ],
     "weight": 100,
     "imageUrl": "https://example.com/mango.jpg",
     "nutrients": {
-      "calories": 60,
-      "protein": 0.8,
-      "carbs": 15,
-      "fat": 0.4
+      "calories": {
+        "value": 60.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.8,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 15.0,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.4,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 13.7,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 36.4,
+        "unit": "mg"
+      }
     },
-    "barcodes": ["5678901234567"]
+    "barcodes": [
+      "5678901234567"
+    ]
   },
   {
     "foodId": "f5b23b89-2f60-4560-b994-839e2df4a3df",
     "name_vi": "Dâu tây",
     "name_en": "Strawberry",
-    "categories": ["fruit", "berry"],
-    "categories_vi": ["Trái cây", "Quả mọng"],
+    "categories": [
+      "fruit",
+      "berry"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Quả mọng"
+    ],
     "weight": 100,
     "imageUrl": "https://example.com/strawberry.jpg",
     "nutrients": {
-      "calories": 32,
-      "protein": 0.7,
-      "carbs": 7.7,
-      "fat": 0.3
+      "calories": {
+        "value": 32.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.7,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 7.7,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.3,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 4.9,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 58.8,
+        "unit": "mg"
+      }
     },
-    "barcodes": ["7890123456789"]
+    "barcodes": [
+      "7890123456789"
+    ]
   },
   {
     "foodId": "d56a912f-5b54-4a14-a707-bd0cf3b0f2f2",
     "name_vi": "Dưa hấu",
     "name_en": "Watermelon",
-    "categories": ["fruit", "melon", "summer_fruit"],
-    "categories_vi": ["Trái cây", "Dưa", "Hè"],
+    "categories": [
+      "fruit",
+      "melon",
+      "summer_fruit"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Dưa",
+      "Hè"
+    ],
     "weight": 100,
     "imageUrl": "https://example.com/watermelon.jpg",
     "nutrients": {
-      "calories": 30,
-      "protein": 0.6,
-      "carbs": 7.6,
-      "fat": 0.2
+      "calories": {
+        "value": 30.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.6,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 7.6,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.2,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 6.2,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 8.1,
+        "unit": "mg"
+      }
     },
-    "barcodes": ["9012345678901"]
+    "barcodes": [
+      "9012345678901"
+    ]
+  },
+  {
+    "foodId": "f7a3c8e9-1b2d-4e5a-8c9f-0d1a2b3c4d5e",
+    "name_vi": "Nho",
+    "name_en": "Grape",
+    "categories": [
+      "fruit",
+      "berry",
+      "common_fruit"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Quả mọng",
+      "Phổ thông"
+    ],
+    "weight": 100,
+    "imageUrl": "https://example.com/grape.jpg",
+    "nutrients": {
+      "calories": {
+        "value": 69.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.6,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 18.1,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.2,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 15.4,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 3.2,
+        "unit": "mg"
+      }
+    },
+    "barcodes": [
+      "1122334455667"
+    ]
+  },
+  {
+    "foodId": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+    "name_vi": "Dứa (Thơm)",
+    "name_en": "Pineapple",
+    "categories": [
+      "fruit",
+      "tropical_fruit"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Nhiệt đới"
+    ],
+    "weight": 100,
+    "imageUrl": "https://example.com/pineapple.jpg",
+    "nutrients": {
+      "calories": {
+        "value": 50.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.5,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 13.1,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.1,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 9.9,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 47.8,
+        "unit": "mg"
+      }
+    },
+    "barcodes": [
+      "2233445566778"
+    ]
+  },
+  {
+    "foodId": "b3d5f7a9-c1e3-5b7d-9f1a-3c5e7f9a1b2c",
+    "name_vi": "Đào",
+    "name_en": "Peach",
+    "categories": [
+      "fruit",
+      "summer_fruit"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Hè"
+    ],
+    "weight": 100,
+    "imageUrl": "https://example.com/peach.jpg",
+    "nutrients": {
+      "calories": {
+        "value": 39.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 0.9,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 9.5,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.3,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 8.4,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 6.6,
+        "unit": "mg"
+      }
+    },
+    "barcodes": [
+      "3344556677889"
+    ]
+  },
+  {
+    "foodId": "d0e1f2a3-b4c5-d6e7-f8a9-b0c1d2e3f4a5",
+    "name_vi": "Quả bơ",
+    "name_en": "Avocado",
+    "categories": [
+      "fruit",
+      "healthy_fat"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Chất béo tốt"
+    ],
+    "weight": 100,
+    "imageUrl": "https://example.com/avocado.jpg",
+    "nutrients": {
+      "calories": {
+        "value": 160.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 2.0,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 8.5,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 14.7,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 0.7,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 10.0,
+        "unit": "mg"
+      }
+    },
+    "barcodes": [
+      "4455667788990"
+    ]
+  },
+  {
+    "foodId": "e6f7a8b9-c0d1-e2f3-a4b5-c6d7e8f9a0b1",
+    "name_vi": "Kiwi",
+    "name_en": "Kiwi",
+    "categories": [
+      "fruit",
+      "berry"
+    ],
+    "categories_vi": [
+      "Trái cây",
+      "Quả mọng"
+    ],
+    "weight": 100,
+    "imageUrl": "https://example.com/kiwi.jpg",
+    "nutrients": {
+      "calories": {
+        "value": 61.0,
+        "unit": "kcal"
+      },
+      "protein": {
+        "value": 1.1,
+        "unit": "g"
+      },
+      "carbs": {
+        "value": 14.7,
+        "unit": "g"
+      },
+      "fat": {
+        "value": 0.5,
+        "unit": "g"
+      },
+      "sugar": {
+        "value": 9.0,
+        "unit": "g"
+      },
+      "vitamin_c": {
+        "value": 92.7,
+        "unit": "mg"
+      }
+    },
+    "barcodes": [
+      "5566778899001"
+    ]
   }
 ]
