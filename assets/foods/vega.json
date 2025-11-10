@@ -1,0 +1,18 @@
+[
+  {
+    "foodId": "a5e95a2c-30b9-4d5e-9d03-3a6e1d4f8b3b",
+    "name_vi": "Rau",
+    "name_en": "Vegantable", 
+    "categories": ["vegan", "vegens", "carbohydrate"],
+    "categories_vi": ["Rau củ", "Nhiệt đới", "Chất Sơ"],
+    "weight": 100,
+    "imageUrl": "https://example.com/banana.jpg",
+    "nutrients": {
+      "calories": 50,
+      "protein": 1.1,
+      "carbs": 22.8,
+      "fat": 0.3
+    },
+    "barcodes": ["1234567890768"]
+  }
+]
