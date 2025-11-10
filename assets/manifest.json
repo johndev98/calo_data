@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "files": [
-    { "name": "foods/fruit.json", "hash": "6f6955c64915fbefb47974fae5919f1b0bfae652", "size_mb": 0.5},
-    { "name": "foods/vegan.json", "hash": "e01feae1b1aea935956a8d0ba445be29084bebee", "size_mb": 0.1}
+    { "name": "foods/fruit.json", "hash": "a6537431df8a2dd09406d78f17c7d7f246bd7ffd", "size_mb": 0.005},
+    { "name": "foods/vegan.json", "hash": "e01feae1b1aea935956a8d0ba445be29084bebee", "size_mb": 0.001}
   ]
 }
