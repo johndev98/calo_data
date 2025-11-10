@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.0",
   "files": [
     { "name": "foods/fruit.json", "hash": "a6537431df8a2dd09406d78f17c7d7f246bd7ffd", "size_mb": 0.05}
   ]
